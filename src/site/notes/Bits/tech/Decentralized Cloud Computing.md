@@ -2,11 +2,7 @@
 {"dg-publish":true,"permalink":"/bits/tech/decentralized-cloud-computing/","tags":["tech","IT","cloud decentralization"]}
 ---
 
-
-| Epistemic status |
-|:----------------:|
-|        🌱        |
-
+Epistemic status:: 🌱
 # Decentralized Cloud Computing
 
 
