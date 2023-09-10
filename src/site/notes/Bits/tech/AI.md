@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/bits/tech/ai/","tags":["ai","dashboard"]}
 ---
 
-
-| Epistemic status |
-| :----------------: |
-|        🌱        |
+Epistemic status:: 🌱
 
 # AI 
 - [[Bits/tech/ai/Tools\|Tools]]
