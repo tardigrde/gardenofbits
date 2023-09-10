@@ -2,10 +2,8 @@
 {"dg-publish":true,"permalink":"/bits/tech/walking-up-to-a-system/","tags":["IT","howto"]}
 ---
 
+Epistemic status:: 🌱
 
-| Epistemic status |
-| :----------------: |
-|        🌱        |
 # Walking Up To A System
 
 **Run the system**: Run the code, and relate the concepts you see in the running system back to the code itself.
