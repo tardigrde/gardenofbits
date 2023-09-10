@@ -10,7 +10,7 @@
 # Decentralized Cloud Computing
 
 
-<img src="/assets/images/decloud.png" width="420" height="420"></img>
+![decloud.png](/img/user/PUBLIC/assets/images/decloud.png)
 
 The global cloud computing market was $545.8 billion, and is set to exceed $1000 billion by 2027, with Amazon Web Services, Google Cloud, and Microsoft Azure holding a combined market share of more than 60%. [^1]  
 
