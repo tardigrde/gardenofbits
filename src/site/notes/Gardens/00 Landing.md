@@ -20,6 +20,6 @@ Join us in the **Garden of Bits**, where you'll find a wealth of content, all to
 
 UX Path 1: Use the graph on the right sidebar.
 UX Path 2: Use the left sidebar.
-UX Path 3: Use the [[Gardens/meta/Index\|Index]] page.
+UX Path 3: Use the [[Gardens/Meta/Index\|Index]] page.
 
 
