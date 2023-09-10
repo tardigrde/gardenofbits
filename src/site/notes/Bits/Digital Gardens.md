@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/bits/digital-gardens/","tags":["digital-garden"]}
 ---
 
-
+Epistemic status:: 🌱
 # Cultivating a Digital Garden
 
 In the digital age, the concept of [personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management) has taken on a new dimension. The idea of a *digital garden* has emerged as a unique approach to cultivating and nurturing our thoughts and ideas. 
