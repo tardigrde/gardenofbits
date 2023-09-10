@@ -2,12 +2,7 @@
 {"dg-publish":true,"permalink":"/bits/tech/obsidian/","tags":["pkm","digital-garden","obsidian","productivity"]}
 ---
 
-
-| Epistemic status |
-|:----------------:|
-|        🌿        |
-
-
+Epistemic status:: 🌿
 
 # Obsidian
 
