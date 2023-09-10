@@ -15,3 +15,11 @@ The aim is to stimulate thought, inspire innovation, and contribute to solutions
 We live and breathe [open source](https://en.wikipedia.org/wiki/Open_source), not just as a development model, but as a philosophy that fosters collaboration, transparency, and community.
 
 Join us in the **Garden of Bits**, where you'll find a wealth of content, all to help us all navigate the ever-evolving digital landscape.
+
+# How to use it?
+
+UX Path 1: Use the graph on the right sidebar.
+UX Path 2: Use the left sidebar.
+UX Path 3: Use the [[Bits/meta/Index\|Index]] page.
+
+
