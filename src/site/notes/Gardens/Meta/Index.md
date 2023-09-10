@@ -28,11 +28,12 @@
 | [[Gardens/Meta/Epistemic status system\|Epistemic status system]]                                                                                     | 🌿     |
 | [[Gardens/Meta/Index\|Index]]                                                                                                                         | \-     |
 | [[Gardens/Personal/Systems/How to\|How to]]                                                                                                           | 🌱     |
-| [[Gardens/Personal/Systems/Health/Daily movement flow\|Daily movement flow]]                                                                          | \-     |
-| [[Gardens/Personal/Systems/Health/Stretching\|Stretching]]                                                                                            | \-     |
-| [[Gardens/Personal/Systems/Health/High-intensity interval training\|High-intensity interval training]]                                                | \-     |
-| [[Gardens/Personal/Systems/Health/Calories\|Calories]]                                                                                                | \-     |
+| [[Gardens/Personal/Health/Daily movement flow\|Daily movement flow]]                                                                                  | \-     |
+| [[Gardens/Personal/Health/Stretching\|Stretching]]                                                                                                    | \-     |
+| [[Gardens/Personal/Health/High-intensity interval training\|High-intensity interval training]]                                                        | \-     |
+| [[Gardens/Personal/Health/Calories\|Calories]]                                                                                                        | \-     |
 | [[Gardens/Blog/Hello World\|Hello World]]                                                                                                             | \-     |
 | [[Gardens/Blog/Developers guide to the differences between Ceramic and ComposeDB\|Developers guide to the differences between Ceramic and ComposeDB]] | \-     |
+| [[Gardens/Blog/Automate testing & deployment of Solidity smart contracts\|Automate testing & deployment of Solidity smart contracts]]                 | \-     |
 
 { .block-language-dataview}
