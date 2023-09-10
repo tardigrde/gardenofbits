@@ -16,7 +16,7 @@ Use the search bar.
 
 Follow the hyperlinks.
 
-![rabbit-hole.png](/img/user/PUBLIC/assets/images/rabbit-hole.png)
+![rabbit-hole.png|420](/img/user/PUBLIC/assets/images/rabbit-hole.png)
 
 ### Epistemic Status system
 - 🌱 - Seedling
