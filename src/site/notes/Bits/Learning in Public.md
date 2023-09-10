@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/bits/learning-in-public/","tags":["digital-garden"]}
 ---
 
+Epistemic status:: 🌱
 
 # Learning by doing, in Public
 
