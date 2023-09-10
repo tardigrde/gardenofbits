@@ -27,7 +27,7 @@ Either of:
 - ryn, 
 - cycle, 
 - row,
-- [[200 Resources/High-intensity interval training\|High-intensity interval training]]:
+- [[Gardens/Personal/Systems/Health/High-intensity interval training\|High-intensity interval training]]:
 
 
 ## Muscular endurance - 8 minutes
