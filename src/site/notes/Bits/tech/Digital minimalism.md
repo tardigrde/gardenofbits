@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/bits/tech/digital-minimalism/","tags":["digital-garden"]}
 ---
 
-
-| Epistemic status |
-| :----------------: |
-|        🌱        |
+Epistemic status:: 🌱
 
 # Digital minimalism
 
