@@ -6,9 +6,9 @@
 
 ![logo.png|250](/img/user/Bits/assets/images/logo.png)
 
-Welcome to the [Garden of Bits](https://gardenofbits.com/), a [[Bits/digital-gardens\|Digital Garden]] dedicated to exploring legit use-cases for digital technologies. 
+Welcome to the [Garden of Bits](https://gardenofbits.com/), a [[Bits/Digital Gardens\|Digital Garden]] dedicated to exploring legit use-cases for digital technologies. 
 
-The **Garden of Bits** is a place of discovery and [[Bits/learning-in-public\|learning in public]], where the latest technological innovations are dissected, examined, and understood. It is a space where ideas are shared, questions are encouraged, and discussions are sparked. 
+The **Garden of Bits** is a place of discovery and [[Bits/Learning in Public\|learning in public]], where the latest technological innovations are dissected, examined, and understood. It is a space where ideas are shared, questions are encouraged, and discussions are sparked. 
 
 The aim is to stimulate thought, inspire innovation, and contribute to solutions that benefit the greater good. 
 
