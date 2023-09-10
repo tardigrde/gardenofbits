@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/bits/tech/ai/tools/"}
 ---
 
+Epistemic status:: 🌱
 # Useful AI tools
 [GitHub - TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt)
 
