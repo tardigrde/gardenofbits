@@ -53,7 +53,7 @@ When you have this, that folder abstracts everything you have inside. This is a 
 See the process? You took little pieces that fit together and made a single source of truth version out of it. You gave it a name, and now you are able to talk about and act on it as a single entity. Even if there are 100k files in the folder.
 
 
-Easier with software components than with hardware devices
+Easier with software components than with hardware devices.
 
 
 
