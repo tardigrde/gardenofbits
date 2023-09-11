@@ -16,4 +16,4 @@ A "Digital Second Brain" and a "Digital Garden" are two different concepts for [
 
 While both concepts involve the use of digital tools for knowledge management, they are not exactly subsets of each other. They can be used independently or together, depending on your needs and preferences. For example, you could use a digital second brain to capture and organize your thoughts privately, and then share some of those thoughts in a digital garden for others to see and learn from.
 
-[[How to marry Second Brain with Digital Garden\|How to marry Second Brain with Digital Garden]]
+[[GOB/Meta/How to marry Second Brain with Digital Garden\|How to marry Second Brain with Digital Garden]]
