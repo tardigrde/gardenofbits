@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Contact.md","permalink":"/gardens/contact/"}
+{"dg-publish":true,"dg-path":"Contact.md","permalink":"/contact/"}
 ---
 
 # Contact
