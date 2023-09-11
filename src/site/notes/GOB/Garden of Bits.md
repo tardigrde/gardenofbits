@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Garden of Bits.md","permalink":"/gardens/garden-of-bits/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Garden of Bits.md","permalink":"/garden-of-bits/","tags":["gardenEntry"]}
 ---
 
 # Garden of Bits
@@ -20,6 +20,6 @@ Join us in the **Garden of Bits**, where you'll find a wealth of content, all to
 
 UX Path 1: Use the graph on the right sidebar.
 UX Path 2: Use the left sidebar.
-UX Path 3: Use the [[GOB/Meta/Index\|Index]] page.
+UX Path 3: Use the [[Index\|Index]] page.
 
 
