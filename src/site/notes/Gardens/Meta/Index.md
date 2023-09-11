@@ -6,9 +6,6 @@
 | File                                                                                                                                                     | Status |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | [[Gardens/00 Landing\|00 Landing]]                                                                                                                    | \-     |
-| [[Gardens/Blog/Automate testing & deployment of Solidity smart contracts\|Automate testing & deployment of Solidity smart contracts]]                 | \-     |
-| [[Gardens/Blog/Hello World\|Hello World]]                                                                                                             | \-     |
-| [[Gardens/Blog/Developers guide to the differences between Ceramic and ComposeDB\|Developers guide to the differences between Ceramic and ComposeDB]] | \-     |
 | [[Gardens/Digital Technology/AI\|AI]]                                                                                                                 | 🌱     |
 | [[Gardens/Digital Technology/CICD\|CICD]]                                                                                                             | 🌱     |
 | [[Gardens/Digital Technology/Decentralized Cloud Computing\|Decentralized Cloud Computing]]                                                           | 🌱     |
@@ -34,5 +31,8 @@
 | [[Gardens/Personal/Health/Stretching\|Stretching]]                                                                                                    | \-     |
 | [[Gardens/Personal/Systems/How to\|How to]]                                                                                                           | 🌱     |
 | [[Gardens/Contact\|Contact]]                                                                                                                          | \-     |
+| [[Gardens/Blog/Automate testing & deployment of Solidity smart contracts\|Automate testing & deployment of Solidity smart contracts]]                 | \-     |
+| [[Gardens/Blog/Hello World\|Hello World]]                                                                                                             | \-     |
+| [[Gardens/Blog/Developers guide to the differences between Ceramic and ComposeDB\|Developers guide to the differences between Ceramic and ComposeDB]] | \-     |
 
 { .block-language-dataview}
