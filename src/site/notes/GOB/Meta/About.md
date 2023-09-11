@@ -8,13 +8,10 @@ Garden of Bits is an **experiment**! Do not take it too seriously!
 
 I appreciate feedback tho'!
 
-[[GOB/Contact\|Contact us!]]
+# Contact
 
-## How to use it
-
-Use the search bar. 
-
-Follow the hyperlinks.
-
-![rabbit-hole.png|420](/img/user/GOB/assets/images/rabbit-hole.png)
+Please feel free to 
+- [add a new GitHub Discussion](https://github.com/tardigrde/gardenofbits/discussions/new/choose)
+- [create an issue](https://github.com/tardigrde/gardenofbits/issues/new/choose)
+- [open a new PR](https://github.com/tardigrde/gardenofbits/compare)
 
