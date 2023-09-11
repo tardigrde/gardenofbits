@@ -4,7 +4,7 @@
 
 # How and why I started managing a Digital Garden?
 
-I started consistently collecting ideas and resources, probably from high-school. I got my first laptop in 2013, so I migrated some pictures/files of mine from our old family PC. Then I started to collect files for Uni in [[000 Inbox/backlog/Szeged\|Szeged]]. Over the years, I collected shit tons of files, as well as media unrelated to Uni. It slowly grew to a HUGE ass directory containing more than 300 GB of data. Most of them were trash I'd never use again (lot of space was taken by satellite images for Uni).
+I started consistently collecting ideas and resources, probably from high-school on. I got my first laptop in 2013, so I migrated some pictures/files of mine from our old family PC. Then I started to collect files for Uni in [[000 Inbox/backlog/Szeged\|Szeged]]. Over the years, I collected shit tons of files, as well as media unrelated to Uni. It slowly grew to a HUGE ass directory containing more than 300 GB of data. Most of them were trash I'd never use again (lot of space was taken by satellite images for Uni).
 
 In 2016-2017 I started to get behind with Uni, work, home and related tasks during Uni, partially because some of my bad habits. I felt I was doing very bad in all areas of life, and was procrastinating without end. But I knew I had things to do, so I'd just write them down on TODO lists. I consider these the first trials of having some kind of system for tracking my duties. I'd just dump my thoughts, so I'd not forget them. 
 
