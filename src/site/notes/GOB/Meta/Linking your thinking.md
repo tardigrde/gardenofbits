@@ -34,5 +34,4 @@ Note to myself: what if I want to do both? See [[GOB/Meta/How to marry Second Br
 ## PKM Over Productivity
   
 Ironically, it's when you stop exploiting and start exploring, that you generate some of your best ideas and insights!
-  
-ou may not know this, but you have a choice. You don’t have to serve your task manager. Take the power back. Choose to be led by the carrot of curiosity over stick of a task list.
+You may not know this, but you have a choice. You don’t have to serve your task manager. Take the power back. Choose to be led by the carrot of curiosity over stick of a task list.
