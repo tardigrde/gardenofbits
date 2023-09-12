@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/How and why I started managing a Digital Garden.md","permalink":"/blog/how-and-why-i-started-managing-a-digital-garden/","tags":["blogpost","digital-garden"]}
+{"dg-publish":true,"dg-path":"Blog/How and why I started nurturing a Digital Garden.md","permalink":"/blog/how-and-why-i-started-nurturing-a-digital-garden/","tags":["blogpost","digital-garden"]}
 ---
 
 # How and why I started managing a Digital Garden?
@@ -23,6 +23,6 @@ Then I stumbled upon [Personal knowledge management](https://en.wikipedia.org/wi
 
 I quickly found Obsidian and started using it (instead of VSCode). Since then, my vault of notes has boomed. And recently I learned about [[GOB/Meta/Digital Gardens\|Digital Gardens]]. But that's another story.
 
-See [[000 Inbox/My Second Brain\|My Second Brain]]
+See [[GOB/Meta/My Second Brain\|My Second Brain]]
 
 

@@ -16,7 +16,7 @@ Using some decentralized file system, like IPFS can be a solution, but it lacks 
 Where do you store your data then? Enter decentralized data storage and Ceramic.
 
 ## What is Ceramic and how does it work
-It's a composable data network built on top of [[GOB/Digital Technology/decloud/IPFS  Uncovered\|IPFS]].
+It's a composable data network built on top of [[GOB/Digital Technology/DeCloud/IPFS  Uncovered\|IPFS]].
 
 Quote from a Ceramic [blog post ](https://blog.ceramic.network/what-is-ceramic/): 
 > Ceramic is a public, permissionless, open source protocol that provides computation, state transformations, and consensus for all types of data structures stored on the decentralized web.

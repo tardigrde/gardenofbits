@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Digital Technology/ai/Tools.md","permalink":"/gardens/digital-technology/ai/tools/"}
+{"dg-publish":true,"dg-path":"Gardens/Digital Technology/AI/Tools.md","permalink":"/gardens/digital-technology/ai/tools/"}
 ---
 
 Epistemic status:: 🌱
