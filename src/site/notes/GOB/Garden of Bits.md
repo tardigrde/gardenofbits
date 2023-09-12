@@ -14,6 +14,6 @@ The aim is to stimulate thought, inspire innovation, and contribute to solutions
 
 We live and breathe [open source](https://en.wikipedia.org/wiki/Open_source), not just as a development model, but as a philosophy that fosters collaboration, transparency, and community.
 
-See [[GOB/Meta/How to use Garden of Bits\|How to use Garden of Bits]].
+> See [[GOB/Meta/How to use Garden of Bits\|How to use Garden of Bits]].
 
 
