@@ -29,7 +29,7 @@ We are involved in "Knowledge" Management, not "Information Resource" Management
 
 If your aim is task accomplishment, study GTD (Getting Things Done). If your goal is to build a vast universe of ideas that you nurture throughout your life, adopt LYT (Learn Your Trade) or [[GOB/Meta/Digital Gardens\|Digital Gardens]].
 
-Note to myself: what if I want to do both? See [[GOB/Meta/How to marry Second Brain with Digital Garden\|How to marry Second Brain with Digital Garden]].
+If you want to do both, as I do, refer to: [[GOB/Meta/From Second Brain to a Digital Garden\|From Second Brain to a Digital Garden]].
 
 ## PKM Over Productivity
   

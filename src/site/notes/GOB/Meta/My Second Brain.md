@@ -3,7 +3,7 @@
 ---
 
 # My Second Brain
-My personal [[GOB/Meta/Second Brain\|Second Brain]] was built on [uwidev/memory-flow-interface](https://github.com/uwidev/memory-flow-interface). It is a demo for a basic Obsidian working environment. Blessings to you [uwi](https://github.com/uwidev.
+My personal [[GOB/Meta/Second Brain\|Second Brain]] was built on [uwidev/memory-flow-interface](https://github.com/uwidev/memory-flow-interface). It is a demo for a basic Obsidian working environment. Blessings to you [uwi](https://github.com/uwidev).
 
 My Second Brain has 3 purposes:
 1. Planning & Getting things done
