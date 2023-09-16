@@ -19,10 +19,10 @@ During this time I set tons of goals and also started using OKRs for personal ma
 This was the time I created `wiki.me`. A directory for all my notes and useful resources. I used markdown as the default file format. And it worked surprisingly well. I would use it from VSCode and open it multiple times a week dumping my thoughts, TODOs, things I learned in different files. I did all my quarterly, yearly goal setting and all retros in this workspace. It became extremely valuable to me.
 
 At that time I had no idea, that there are systems and practices already established and shared by people on the internet.
-Then I stumbled upon [Personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management) and Thiago Forte's Second Brain. 
+Then I stumbled upon [Personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management) and Thiago Forte's [[GOB/Meta/Second Brain\|Second Brain]]. 
 
-I quickly found Obsidian and started using it (instead of VSCode). Since then, my vault of notes has boomed. And recently I learned about [[GOB/Meta/Digital Gardens\|Digital Gardens]]. But that's another story.
+I quickly found Obsidian and started using it (instead of VSCode). Since then, See notes in [[GOB/Meta/My Second Brain\|My Second Brain]] has skyrocketed. But no notes were ever published.
 
-See [[GOB/Meta/My Second Brain\|My Second Brain]]
+Recently I learned about [[GOB/Meta/Digital Gardens\|Digital Gardens]], and I started to publish my notes to [[GOB/Garden of Bits\|Garden of Bits]]. But that's another story.
 
 
