@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/Epistemic status system.md","permalink":"/gardens/meta/epistemic-status-system/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Meta/Epistemic status system.md","permalink":"/gardens/meta/epistemic-status-system/","noteIcon":"1","created":"","updated":""}
 ---
 
 Epistemic status:: 🌿
