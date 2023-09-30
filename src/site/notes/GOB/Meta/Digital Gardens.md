@@ -19,8 +19,13 @@ Refer to Maggie Appleton's splendid essay on Digital Gardens: [A Brief History &
 
 [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 
+Tremendous amount of information from [nikitavoloboev](https://github.com/nikitavoloboev):
 [My Knowledge Wiki 🌿 | Everything I Know](https://wiki.nikiv.dev/)
 
+I am researching Nikita's workflows:
+[My Workflow | Everything I Know](https://wiki.nikiv.dev/sharing/my-workflow)
+
+[The Threshold](https://hermitage.utsob.me/)
 
 [GitHub - lyz-code/best-of-digital-gardens: Ranked list of awesome digital gardens / second brains](https://github.com/lyz-code/best-of-digital-gardens)
 [Digital Gardens](https://tomcritchlow.com/blogchains/digital-gardens/)
