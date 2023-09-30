@@ -24,3 +24,5 @@
 - ads
 - searching for software is annoying
 - paid software all over the place
+
+Please change my mind!
