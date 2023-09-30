@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/Flow state.md","permalink":"/gardens/meta/flow-state/","tags":["flow","work"]}
+{"dg-publish":true,"dg-path":"Gardens/Meta/Flow state.md","permalink":"/gardens/meta/flow-state/","tags":["philosophy","habit"]}
 ---
 
 
