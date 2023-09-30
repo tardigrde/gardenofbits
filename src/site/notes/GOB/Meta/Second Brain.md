@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/Second Brain.md","permalink":"/gardens/meta/second-brain/","tags":["second-brain","pkm","alignment","gtd"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Meta/Second Brain.md","permalink":"/gardens/meta/second-brain/","tags":["second-brain","pkm","alignment","gtd"],"noteIcon":"1","created":"","updated":""}
 ---
 
 Epistemic status:: 🌱
