@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Digital Technology/AI/AI Agents.md","permalink":"/gardens/digital-technology/ai/ai-agents/"}
+{"dg-publish":true,"dg-path":"Gardens/Digital Technology/AI/AI Agents.md","permalink":"/gardens/digital-technology/ai/ai-agents/","noteIcon":"","created":"","updated":""}
 ---
 
 Epistemic status:: 🌱
