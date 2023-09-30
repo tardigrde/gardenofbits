@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Personal/Health/Daily movement flow.md","permalink":"/gardens/personal/health/daily-movement-flow/","tags":["health","fitness","actionable","evergreen"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Personal/Health/Daily movement flow.md","permalink":"/gardens/personal/health/daily-movement-flow/","tags":["health","fitness","actionable","evergreen"],"noteIcon":"1","created":"","updated":""}
 ---
 
 # Daily movement flow
