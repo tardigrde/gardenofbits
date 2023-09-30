@@ -26,7 +26,6 @@ I am researching Nikita's workflows:
 [My Workflow | Everything I Know](https://wiki.nikiv.dev/sharing/my-workflow)
 
 [The Threshold](https://hermitage.utsob.me/)
-
 [GitHub - lyz-code/best-of-digital-gardens: Ranked list of awesome digital gardens / second brains](https://github.com/lyz-code/best-of-digital-gardens)
 [Digital Gardens](https://tomcritchlow.com/blogchains/digital-gardens/)
 [Digital Garden Terms of Service](https://www.swyx.io/digital-garden-tos)
