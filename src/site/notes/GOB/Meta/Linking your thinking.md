@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/Linking your thinking.md","permalink":"/gardens/meta/linking-your-thinking/","tags":["second-brain","second-brain","pkm",""]}
+{"dg-publish":true,"dg-path":"Gardens/Meta/Linking your thinking.md","permalink":"/gardens/meta/linking-your-thinking/","tags":["second-brain","second-brain","pkm",""],"noteIcon":"","created":"","updated":""}
 ---
 
 
