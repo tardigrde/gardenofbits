@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Personal/Health/General guidelnies for vegetarian diet.md","permalink":"/gardens/personal/health/general-guidelnies-for-vegetarian-diet/","tags":["health","diet"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Personal/Health/General guidelnies for vegetarian diet.md","permalink":"/gardens/personal/health/general-guidelnies-for-vegetarian-diet/","tags":["health","diet"],"noteIcon":"1","created":"","updated":""}
 ---
 
 
