@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/Digital Gardens.md","permalink":"/gardens/meta/digital-gardens/","tags":["digital-garden"]}
+{"dg-publish":true,"dg-path":"Gardens/Meta/Digital Gardens.md","permalink":"/gardens/meta/digital-gardens/","tags":["digital-garden"],"noteIcon":"","created":"","updated":""}
 ---
 
 Epistemic status:: 🌱
