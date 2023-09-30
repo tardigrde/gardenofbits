@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Public Clouds.md","permalink":"/gardens/digital-technology/public-clouds/"}
+{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Public Clouds.md","permalink":"/gardens/digital-technology/public-clouds/","noteIcon":"","created":"","updated":""}
 ---
 
 Epistemic status:: 🌱
