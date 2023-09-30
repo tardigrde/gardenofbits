@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Hello World.md","permalink":"/blog/hello-world/","title":"Hello World","tags":["blogpost"]}
+{"dg-publish":true,"dg-path":"Blog/Hello World.md","permalink":"/blog/hello-world/","title":"Hello World","tags":["post"]}
 ---
 
 
