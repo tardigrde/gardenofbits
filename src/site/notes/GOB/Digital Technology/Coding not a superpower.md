@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Coding not a superpower.md","permalink":"/gardens/digital-technology/coding-not-a-superpower/","tags":["career"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Coding not a superpower.md","permalink":"/gardens/digital-technology/coding-not-a-superpower/","tags":["career"],"noteIcon":"1","created":"","updated":""}
 ---
 
 
