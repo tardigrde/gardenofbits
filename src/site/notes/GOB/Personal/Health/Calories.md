@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Personal/Health/Calories.md","permalink":"/gardens/personal/health/calories/","tags":["health","diet"]}
+{"dg-publish":true,"dg-path":"Gardens/Personal/Health/Calories.md","permalink":"/gardens/personal/health/calories/","tags":["health","diet"],"noteIcon":"","created":"","updated":""}
 ---
 
 
