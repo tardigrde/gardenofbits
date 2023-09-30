@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Why I use Linux.md","permalink":"/gardens/digital-technology/why-i-use-linux/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Why I use Linux.md","permalink":"/gardens/digital-technology/why-i-use-linux/","noteIcon":"1","created":"","updated":""}
 ---
 
 
