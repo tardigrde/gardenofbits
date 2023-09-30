@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/Personal Knowledge Management.md","permalink":"/gardens/meta/personal-knowledge-management/","tags":["definition","fundamental"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Meta/Personal Knowledge Management.md","permalink":"/gardens/meta/personal-knowledge-management/","tags":["definition","fundamental"],"noteIcon":"1","created":"","updated":""}
 ---
 
 # Personal Knowledge Management
