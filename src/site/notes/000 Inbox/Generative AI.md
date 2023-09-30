@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-inbox/generative-ai/","tags":["it","ai"]}
+{"dg-publish":true,"permalink":"/000-inbox/generative-ai/","tags":["it","ai"],"noteIcon":"","created":"","updated":""}
 ---
 
 ## My GPT tools
