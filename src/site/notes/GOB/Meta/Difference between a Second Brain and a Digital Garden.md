@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/Difference between a Second Brain and a Digital Garden.md","permalink":"/gardens/meta/difference-between-a-second-brain-and-a-digital-garden/","tags":["second-brain","digital-garden","pkm"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Meta/Difference between a Second Brain and a Digital Garden.md","permalink":"/gardens/meta/difference-between-a-second-brain-and-a-digital-garden/","tags":["second-brain","digital-garden","pkm"],"noteIcon":"1","created":"","updated":""}
 ---
 
 
