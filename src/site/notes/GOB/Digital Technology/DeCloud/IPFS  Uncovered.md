@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Digital Technology/DeCloud/IPFS  Uncovered.md","permalink":"/gardens/digital-technology/de-cloud/ipfs-uncovered/","tags":["web3","ipfs","content-creation",""]}
+{"dg-publish":true,"dg-path":"Gardens/Digital Technology/DeCloud/IPFS  Uncovered.md","permalink":"/gardens/digital-technology/de-cloud/ipfs-uncovered/","tags":["web3","ipfs","content-creation",""],"noteIcon":"","created":"","updated":""}
 ---
 
 Epistemic status:: 🌿
