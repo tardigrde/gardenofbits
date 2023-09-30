@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/My Second Brain.md","permalink":"/gardens/meta/my-second-brain/","tags":["second-brain","pkm","obsidian"]}
+{"dg-publish":true,"dg-path":"Gardens/Meta/My Second Brain.md","permalink":"/gardens/meta/my-second-brain/","tags":["second-brain","pkm","obsidian"],"noteIcon":"","created":"","updated":""}
 ---
 
 # My Second Brain
