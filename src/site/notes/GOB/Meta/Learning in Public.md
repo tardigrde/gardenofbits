@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/Learning in Public.md","permalink":"/gardens/meta/learning-in-public/","tags":["digital-garden"]}
+{"dg-publish":true,"dg-path":"Gardens/Meta/Learning in Public.md","permalink":"/gardens/meta/learning-in-public/","tags":["digital-garden"],"noteIcon":"","created":"","updated":""}
 ---
 
 Epistemic status:: 🌱
