@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Personal/Health/Stretching.md","permalink":"/gardens/personal/health/stretching/","tags":["health","fitness","sport"]}
+{"dg-publish":true,"dg-path":"Gardens/Personal/Health/Stretching.md","permalink":"/gardens/personal/health/stretching/","tags":["health","fitness","sport"],"noteIcon":"","created":"","updated":""}
 ---
 
 
