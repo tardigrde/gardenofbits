@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/Digital minimalism.md","permalink":"/gardens/meta/digital-minimalism/","tags":["digital-garden"]}
+{"dg-publish":true,"dg-path":"Gardens/Meta/Digital minimalism.md","permalink":"/gardens/meta/digital-minimalism/","tags":["digital-garden"],"noteIcon":"","created":"","updated":""}
 ---
 
 Epistemic status:: 🌱
