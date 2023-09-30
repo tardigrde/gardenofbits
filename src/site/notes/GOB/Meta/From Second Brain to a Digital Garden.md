@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/From Second Brain to a Digital Garden.md","permalink":"/gardens/meta/from-second-brain-to-a-digital-garden/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Meta/From Second Brain to a Digital Garden.md","permalink":"/gardens/meta/from-second-brain-to-a-digital-garden/","noteIcon":"1","created":"","updated":""}
 ---
 
 My current setup is having both a private [[GOB/Meta/My Second Brain\|Second Brain]] and a public [[GOB/Garden of Bits\|Digital Garden]] (see [[GOB/Meta/Difference between a Second Brain and a Digital Garden\|differences]] between the 2 concepts).
