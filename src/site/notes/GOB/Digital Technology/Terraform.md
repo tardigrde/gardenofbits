@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Terraform.md","permalink":"/gardens/digital-technology/terraform/"}
+{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Terraform.md","permalink":"/gardens/digital-technology/terraform/","noteIcon":"","created":"","updated":""}
 ---
 
 Epistemic status:: 🌿
