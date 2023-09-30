@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/How to use Garden of Bits.md","permalink":"/gardens/meta/how-to-use-garden-of-bits/","tags":["gob","digital-garden","idea"]}
+{"dg-publish":true,"dg-path":"Gardens/Meta/How to use Garden of Bits.md","permalink":"/gardens/meta/how-to-use-garden-of-bits/","tags":["gob","digital-garden","idea"],"noteIcon":"","created":"","updated":""}
 ---
 
 # How to use Garden of Bits
