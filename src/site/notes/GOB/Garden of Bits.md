@@ -13,5 +13,5 @@ You may find my guide [[GOB/Meta/How to use Garden of Bits\|How to use Garden of
 
 I am a huge fan [open source](https://en.wikipedia.org/wiki/Open_source), not just as a development model, but as a philosophy that fosters collaboration, transparency, and community. So please feel free to 
 - [add a new GitHub Discussion](https://github.com/tardigrde/gardenofbits/discussions/new/choose),
-- [create an issue](https://github.com/tardigrde/gardenofbits/issues/new/choose).
+- [raise an issue](https://github.com/tardigrde/gardenofbits/issues/new/choose).
 
