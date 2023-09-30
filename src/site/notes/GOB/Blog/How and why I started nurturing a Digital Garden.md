@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/How and why I started nurturing a Digital Garden.md","permalink":"/blog/how-and-why-i-started-nurturing-a-digital-garden/","tags":["blogpost","digital-garden"]}
+{"dg-publish":true,"dg-path":"Blog/How and why I started nurturing a Digital Garden.md","permalink":"/blog/how-and-why-i-started-nurturing-a-digital-garden/","tags":["post","digital-garden"]}
 ---
 
 # How and why I started managing a Digital Garden?
