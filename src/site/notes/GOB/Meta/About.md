@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/About.md","permalink":"/gardens/meta/about/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Meta/About.md","permalink":"/gardens/meta/about/","noteIcon":"1","created":"","updated":""}
 ---
 
 # About
