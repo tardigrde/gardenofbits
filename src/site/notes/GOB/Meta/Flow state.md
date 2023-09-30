@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/Flow state.md","permalink":"/gardens/meta/flow-state/","tags":["philosophy","habit"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Meta/Flow state.md","permalink":"/gardens/meta/flow-state/","tags":["philosophy","habit"],"noteIcon":"1","created":"","updated":""}
 ---
 
 
