@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/Personal Knowledge Database.md","permalink":"/gardens/meta/personal-knowledge-database/","tags":["fundamental","definition","tool"]}
+{"dg-publish":true,"dg-path":"Gardens/Meta/Personal Knowledge Database.md","permalink":"/gardens/meta/personal-knowledge-database/","tags":["fundamental","definition","howto"]}
 ---
 
 # Personal Knowledge Database
