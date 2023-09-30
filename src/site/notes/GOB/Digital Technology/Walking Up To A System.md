@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Walking Up To A System.md","permalink":"/gardens/digital-technology/walking-up-to-a-system/","tags":["IT","howto"]}
+{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Walking Up To A System.md","permalink":"/gardens/digital-technology/walking-up-to-a-system/","tags":["IT","howto"],"noteIcon":"","created":"","updated":""}
 ---
 
 Epistemic status:: 🌱
