@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Obsidian.md","permalink":"/gardens/digital-technology/obsidian/","tags":["pkm","digital-garden","obsidian","productivity"]}
+{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Obsidian.md","permalink":"/gardens/digital-technology/obsidian/","tags":["pkm","digital-garden","obsidian","gtd"]}
 ---
 
 Epistemic status:: 🌿

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Developers guide to the differences between Ceramic and ComposeDB.md","permalink":"/blog/developers-guide-to-the-differences-between-ceramic-and-compose-db/","title":"Developers guide to the differences between Ceramic and ComposeDB","tags":["web3","ceramic","post"]}
+{"dg-publish":true,"dg-path":"Blog/Developers guide to the differences between Ceramic and ComposeDB.md","permalink":"/blog/developers-guide-to-the-differences-between-ceramic-and-compose-db/","title":"Developers guide to the differences between Ceramic and ComposeDB","tags":["web3","post"]}
 ---
 
 

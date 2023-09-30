@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Automate testing & deployment of Solidity smart contracts.md","permalink":"/blog/automate-testing-and-deployment-of-solidity-smart-contracts/","tags":["writing","blogging","blogpost","post"]}
+{"dg-publish":true,"dg-path":"Blog/Automate testing & deployment of Solidity smart contracts.md","permalink":"/blog/automate-testing-and-deployment-of-solidity-smart-contracts/","tags":["content-creation","post"]}
 ---
 
 

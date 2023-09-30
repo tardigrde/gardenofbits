@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/How and why I started nurturing a Digital Garden.md","permalink":"/blog/how-and-why-i-started-nurturing-a-digital-garden/","tags":["blogpost","digital-garden"]}
+{"dg-publish":true,"dg-path":"Blog/How and why I started nurturing a Digital Garden.md","permalink":"/blog/how-and-why-i-started-nurturing-a-digital-garden/","tags":["post","digital-garden"]}
 ---
 
 # How and why I started managing a Digital Garden?
@@ -8,7 +8,7 @@ I started consistently collecting ideas and resources, probably from high-school
 
 In 2016-2017 I started to get behind with Uni, work, home and related tasks during Uni, partially because some of my bad habits. I felt I was doing very bad in all areas of life, and was procrastinating without end. But I knew I had things to do, so I'd just write them down on TODO lists. I consider these the first trials of having some kind of system for tracking my duties. I'd just dump my thoughts, so I'd not forget them. 
 
-In 2017, I went to [[200 Resources/280 Memories/Karlsruhe\|Karlsruhe]] for a semester, and I had a LOT of administration tasks, not even mentioning tasks related to courses. I was overwhelmed, and started taking more and more notes. I even started organizing those thoughts/notes. But this was really the beginning. Most of these notes had deadlines, none of them were evergreen.
+In 2017, I went to [[200 Resources/My Memories/Karlsruhe\|Karlsruhe]] for a semester, and I had a LOT of administration tasks, not even mentioning tasks related to courses. I was overwhelmed, and started taking more and more notes. I even started organizing those thoughts/notes. But this was really the beginning. Most of these notes had deadlines, none of them were evergreen.
 
 After coming home, I started my (eventually huge) M.Sc. thesis project, which would take more than 12 months of moderate effort. My note-taking and goal-setting skills level-upped during this period. Some of my notes survived from this period, most did not.
 

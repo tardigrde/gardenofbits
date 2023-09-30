@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Decentralized Cloud Computing.md","permalink":"/gardens/digital-technology/decentralized-cloud-computing/","tags":["tech","IT","cloud decentralization"]}
+{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Decentralized Cloud Computing.md","permalink":"/gardens/digital-technology/decentralized-cloud-computing/","tags":["it","cloud"]}
 ---
 
 Epistemic status:: 🌱
@@ -17,3 +17,10 @@ Interesting sources:
 - [Insights - Akash Network](https://akash.network/tags/insights/)
 
 [^1]: [Cloud Computing - Markets&Markets](https://www.marketsandmarkets.com/Market-Reports/cloud-computing-market-234.html)
+
+[[GOB/Digital Technology/Public Clouds\|Public Clouds]]
+
+
+
+
+
