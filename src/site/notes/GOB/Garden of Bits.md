@@ -13,10 +13,12 @@ The `Garden of Bits` gives space for exploration and [[GOB/Meta/Learning in Publ
 ## How to use it?
 You may find my guide [[GOB/Meta/How to use Garden of Bits\|How to use Garden of Bits]] useful, but feel free to explore this space in your own unique way. 
 
-```
 > [!WARNING] [Here be dragons](https://en.wikipedia.org/wiki/Here_be_dragons)
-> The garden's primary function is to help myself better mapping the world. Notes and essays are unfinished (see [[Epistemic status system]]), opinions are my own, some content (especially images) are generated, and you will find broken links.
-```
+> The garden's primary function is to help myself better understand the world. So keep in mind:
+> - notes and essays are unfinished (see [[GOB/Meta/Epistemic status system\|Epistemic status system]]), 
+> - opinions are my own, 
+> - some content (especially images) are generated, 
+> - and you will find broken links.
 
 ## How to contribute
 
