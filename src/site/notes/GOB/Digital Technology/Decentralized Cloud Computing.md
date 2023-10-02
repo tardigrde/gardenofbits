@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Decentralized Cloud Computing.md","permalink":"/gardens/digital-technology/decentralized-cloud-computing/","tags":["it","cloud"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Decentralized Cloud Computing.md","permalink":"/gardens/digital-technology/decentralized-cloud-computing/","tags":["it","cloud"],"noteIcon":1,"created":"","updated":""}
 ---
 
-Epistemic status:: 🌱
 # Decentralized Cloud Computing
 
 
