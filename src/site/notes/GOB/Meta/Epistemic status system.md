@@ -9,9 +9,37 @@ See more info: [Epistemic Disclosure/Status](https://maggieappleton.com/epistemi
 
 | Status    |  Icon   |
 | --- | --- |
-|   n/a  |   ![[default-note-icon.svg\|42]]  |
-|   Seedling  |   ![[tree-1.svg\|42]]  |
-|  Budding   | ![[tree-2.svg\|42]]    |
+|   n/a  |   <svg xmlns="http://www.w3.org/2000/svg" width="42" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"/>
+    <polyline points="14 2 14 8 20 8"/>
+    <line x1="16" y1="13" x2="8" y2="13"/>
+    <line x1="16" y1="17" x2="8" y2="17"/>
+    <line x1="10" y1="9" x2="8" y2="9"/>
+</svg>  |
+|   Seedling  |   <?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" width="42" height="205" version="1.1" viewBox="0 0 39.688 54.24">
+ <g transform="translate(-69.7 -93.956)" fill="none" stroke="#008000">
+  <path d="m69.7 146.87h39.688" stroke-width="2.6458"/>
+  <g transform="translate(-.36252)">
+   <path d="m89.544 146.87v-6.794" stroke-width="2.6458"/>
+   <path d="m88.77 141.34 6.6272-8.1886" stroke-width="2.3347"/>
+   <path d="m89.919 141.46-5.5766-5.8386" stroke-width="2.3102"/>
+  </g>
+  <circle cx="100.95" cy="126.47" r="6.9136" stroke-width="2.6458"/>
+  <circle cx="79.351" cy="130.4" r="5.0854" stroke-width="2.6458"/>
+ </g>
+</svg>  |
+|  Budding   | <?xml version="1.0" encoding="UTF-8"?><!-- Created with Inkscape (http://www.inkscape.org/) --><svg xmlns="http://www.w3.org/2000/svg" width="42" height="205" version="1.1" viewBox="0 0 39.688 54.24">
+ <g transform="translate(0 -.8262)" fill="none" stroke="#20b2aa">
+  <circle cx="33.971" cy="33.263" r="4.79" stroke-width="1.8521"/>
+  <circle cx="5.716" cy="33.263" r="4.79" stroke-width="1.8521"/>
+  <g stroke-width="2.6458">
+   <path d="m6.8958 53.743h25.896"/>
+   <path d="m19.844 53.743v-25.896"/>
+   <circle cx="19.844" cy="18.683" r="7.0212"/>
+   <path d="m6.8958 40.795 12.948 3.237 12.948-3.237"/>
+  </g>
+ </g>
+</svg>    |
 |   Evergreen  |   <?xml version="1.0" encoding="UTF-8"?><!-- Created with Inkscape (http://www.inkscape.org/) --><svg xmlns="http://www.w3.org/2000/svg" width="42" height="205" version="1.1" viewBox="0 0 39.688 54.24">
  <g fill="none" stroke="#2e8b57">
   <g>
