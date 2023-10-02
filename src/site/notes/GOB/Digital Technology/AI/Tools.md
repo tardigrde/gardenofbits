@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Digital Technology/AI/Tools.md","permalink":"/gardens/digital-technology/ai/tools/","noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Digital Technology/AI/Tools.md","permalink":"/gardens/digital-technology/ai/tools/","noteIcon":1,"created":"","updated":""}
 ---
 
-Epistemic status:: 🌱
+
 # Useful AI tools
 [GitHub - TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt)
 
