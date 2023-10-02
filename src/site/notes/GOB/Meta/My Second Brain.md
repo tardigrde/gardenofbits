@@ -1,18 +1,20 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/My Second Brain.md","permalink":"/gardens/meta/my-second-brain/","tags":["second-brain","pkm","obsidian"],"noteIcon":"1","created":"2023-09-01","updated":"2023-10-02"}
+{"dg-publish":true,"dg-path":"Gardens/Meta/My Second Brain.md","permalink":"/gardens/meta/my-second-brain/","tags":["second-brain","pkm","obsidian"],"noteIcon":2,"created":"2023-09-01","updated":"2023-10-02"}
 ---
 
 # My Second Brain
 
-## Second Brain Setup
 My personal [[GOB/Meta/Second Brain\|Second Brain]] was built on [uwidev/memory-flow-interface](https://github.com/uwidev/memory-flow-interface). It's a template for a basic Obsidian working environment. Blessings to you, [uwi](https://github.com/uwidev).
 
-My Second Brain has 3 purposes:
+The [Memory Flow Interface](https://github.com/uwidev/memory-flow-interface/blob/main/00%20%E2%99%BB%20Memory%20Flow%20Interface.md) is "...designed to be powerfully basic. The core elements allow for immense personal development and information management."
+
+## Motivation
+My Second Brain helps me in 3 different ways:
 1. Planning & Getting Things Done
 2. Knowledge Generation
 3. Journaling & Alignment
 
-The [Memory Flow Interface](https://github.com/uwidev/memory-flow-interface/blob/main/00%20%E2%99%BB%20Memory%20Flow%20Interface.md) is "...designed to be powerfully basic. The core elements allow for immense personal development and information management."
+## Second Brain Setup
 
 ### Directory structure
 
@@ -61,7 +63,9 @@ Projects TODO
 Disciplines & PPV
 
 ## Obsidian plugins I use
-# Workflow
+
+
+## Workflow
 
 ### **CRE** Framework - a simplified [[200 Resources/CODE Framework\|CODE Framework]] 
 
