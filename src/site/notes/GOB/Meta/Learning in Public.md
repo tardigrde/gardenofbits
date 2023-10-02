@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/Learning in Public.md","permalink":"/gardens/meta/learning-in-public/","tags":["digital-garden"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Meta/Learning in Public.md","permalink":"/gardens/meta/learning-in-public/","tags":["digital-garden"],"noteIcon":2,"created":"","updated":""}
 ---
 
-Epistemic status:: 🌱
 
 # Learning by doing, in Public
 
