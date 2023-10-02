@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Digital Technology/AI.md","permalink":"/gardens/digital-technology/ai/","tags":["ai","dashboard"],"noteIcon":"1","created":"2023-09-01","updated":"2023-10-01"}
+{"dg-publish":true,"dg-path":"Gardens/Digital Technology/AI.md","permalink":"/gardens/digital-technology/ai/","tags":["ai","dashboard"],"noteIcon":1,"created":"2023-09-01","updated":"2023-10-01"}
 ---
 
-Epistemic status:: 🌱
 
 # AI 
 - [[GOB/Digital Technology/AI/Tools\|Tools]]
