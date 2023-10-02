@@ -14,7 +14,9 @@ My Second Brain has 3 purposes:
 
 The [Memory Flow Interface](https://github.com/uwidev/memory-flow-interface/blob/main/00%20%E2%99%BB%20Memory%20Flow%20Interface.md) is "...designed to be powerfully basic. The core elements allow for immense personal development and information management."
 
-I use a rather simple directory structure:
+### Directory structure
+
+I use a rather simple directory structure.
 ```bash
 .  
 ├── 000 Inbox  
@@ -29,23 +31,37 @@ I use a rather simple directory structure:
 └── README.md
 ```
 
-I only have 1 file in the root folder called `README.md`, but all other containers are folders. I use [Folders as Working States](https://github.com/uwidev/memory-flow-interface/blob/main/200%20Resources/Folders%20as%20Working%20States.md) for notes. This is the 
+> [!NOTE] Numbering
+> The numbering of the directories is arbitrary and does not follow any rules.
 
-`Inbox` -> `Staging` -> `Resources`/`Archive` -> `GardenOfBits`
+I only have 1 file in the root folder called `README.md`, but all other containers are folders. I use [Folders as Working States](https://github.com/uwidev/memory-flow-interface/blob/main/200%20Resources/Folders%20as%20Working%20States.md) for notes. This is the usual pipeline for new notes:
 
 ```mermaid
 graph LR
-    Inbox --> Staging
-    Staging --> Resources
-    Staging --> Archive
-    Resources --> GardenOfBits
+    A(000 Inbox) --> B(100 Staging)
+    B --> C(200 Resources)
+    B --> D(900 Archive)
+    C --> E(GardenOfBits)
 ```
 
-As `uwi` correctly figured out
+#### Special directories
 
+There are some special directories:
+- `400 Alignment` -> for keeping retrospective notes and journals in a chronological folder structure
+- `500 Dashboards` -> contains dashboard notes
+- `700 Media` -> contains all kind of media files (PDFs, PNGs, etc.)
+- `800 Templates` -> contains Obsidian note templates (used by [Templates Core Plugin](https://help.obsidian.md/Plugins/Templates) and [Templater Community Plugin](https://github.com/SilentVoid13/Templater)).
 
+As `uwi` and so many others have correctly figured out before, using directories for organizing notes, is not a best practice. You will soon find out that a note e.g. Python certification can go both in "technologies" folder and the "career" folder too. [Tags](https://github.com/uwidev/memory-flow-interface/blob/main/200%20Resources/Tags.md) for the rescue. A note can have multiple tags, but it can only ever have 1 parent folder.
 
-# How do I work with Second Brain?
+Tasks TODO
+
+Projects TODO
+
+Disciplines & PPV
+
+## Obsidian plugins I use
+# Workflow
 
 ### **CRE** Framework - a simplified [[200 Resources/CODE Framework\|CODE Framework]] 
 
