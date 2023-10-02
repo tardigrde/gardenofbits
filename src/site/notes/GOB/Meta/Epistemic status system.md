@@ -7,17 +7,15 @@ Epistemic status:: 🌿
 See more info: [Epistemic Disclosure/Status](https://maggieappleton.com/epistemic-disclosure)
 # Initial system
 
-| Status    | Icon                       |
-| --------- | -------------------------- |
-| n/a       | <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+* n/a: <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
     stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
     <path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"></path>
     <polyline points="14 2 14 8 20 8"></polyline>
     <line x1="16" y1="13" x2="8" y2="13"></line>
     <line x1="16" y1="17" x2="8" y2="17"></line>
     <line x1="10" y1="9" x2="8" y2="9"></line>
-</svg> |
-| Seedling  | <?xml version="1.0" encoding="UTF-8"?>
+</svg> 
+* Seedling: <?xml version="1.0" encoding="UTF-8"?>
 <svg width="150" height="205" version="1.1" viewBox="0 0 39.688 54.24" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(-69.7 -93.956)" fill="none" stroke="#008000">
   <path d="m69.7 146.87h39.688" stroke-width="2.6458"/>
@@ -30,8 +28,8 @@ See more info: [Epistemic Disclosure/Status](https://maggieappleton.com/epistemi
   <circle cx="79.351" cy="130.4" r="5.0854" stroke-width="2.6458"/>
  </g>
 </svg>
-        |
-| Budding   | <?xml version="1.0" encoding="UTF-8"?>
+ 
+* Budding: <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="150" height="205" version="1.1" viewBox="0 0 39.688 54.24" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(0 -.8262)" fill="none" stroke="#20b2aa">
@@ -45,8 +43,8 @@ See more info: [Epistemic Disclosure/Status](https://maggieappleton.com/epistemi
   </g>
  </g>
 </svg>
-        |
-| Evergreen | <?xml version="1.0" encoding="UTF-8"?>
+ 
+* Evergreen: <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="150" height="205" version="1.1" viewBox="0 0 39.688 54.24" xmlns="http://www.w3.org/2000/svg">
  <g fill="none" stroke="#2e8b57">
@@ -64,7 +62,7 @@ See more info: [Epistemic Disclosure/Status](https://maggieappleton.com/epistemi
   <path d="m9.2604 23.406 10.583 2.6458 10.583-2.6458" stroke-width="2.6458"/>
  </g>
 </svg>
-        |
+
 
 
 
