@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Meta/Cult of Done.md","permalink":"/gardens/meta/cult-of-done/","noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Meta/Cult of Done.md","permalink":"/gardens/meta/cult-of-done/","noteIcon":"1"}
 ---
 
 
