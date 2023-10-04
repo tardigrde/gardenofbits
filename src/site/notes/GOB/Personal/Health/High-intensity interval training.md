@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Personal/Health/High-intensity interval training.md","permalink":"/gardens/personal/health/high-intensity-interval-training/","tags":["health","fitness"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Personal/Health/High-intensity interval training.md","permalink":"/gardens/personal/health/high-intensity-interval-training/","tags":["health","fitness"],"noteIcon":"1"}
 ---
 
 
