@@ -24,7 +24,7 @@ These impressions made me ask:
 
 ## Brownie
 
-While searching for answers, I found 3 comparable frameworks, which offer most of the features I need. [Truffle](https://github.com/trufflesuite/truffle) is the most mature and certainly has the most features. [Hardhat](https://github.com/NomicFoundation/hardhat) is a more modern tool, which focuses on debugging. Both of these tools are written in JavaScript. [Brownie](https://github.com/eth-brownie/brownie) is also a decent alternative written in Python. 
+While searching for answers, I found 3 comparable [[GOB/Digital Technology/Open Source\|Open Source]] frameworks, which offer most of the features I need. [Truffle](https://github.com/trufflesuite/truffle) is the most mature and certainly has the most features. [Hardhat](https://github.com/NomicFoundation/hardhat) is a more modern tool, which focuses on debugging. Both of these tools are written in JavaScript. [Brownie](https://github.com/eth-brownie/brownie) is also a decent alternative written in Python. 
 
 I opted for `brownie`, because it has a CLI, an interactive console, uses [pytest](https://docs.pytest.org/) for testing and makes deployments easy with different network and account configuration. Another consideration was, that Python is my scripting language of choice. This allowed me to use well-known tools to solve new problems. 
 
