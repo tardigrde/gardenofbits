@@ -20,9 +20,10 @@ You may find my guide [[GOB/Meta/How to use Garden of Bits\|How to use Garden of
 > - some content (especially images) are generated, 
 > - and you will find broken links.
 
+You can also read some of my [[GOB/Blog/Blog\|blogposts.]]
 ## How to contribute
 
-I am a huge fan [open source](https://en.wikipedia.org/wiki/Open_source), not just as a development model, but as a philosophy that fosters collaboration, transparency, and community. 
+I am a huge fan [[GOB/Digital Technology/Open Source\|Open Source]], not just as a development model, but as a philosophy that fosters collaboration, transparency, and community. 
 
 So please feel free to 
 - [add a new GitHub Discussion](https://github.com/tardigrde/gardenofbits/discussions/new/choose),
