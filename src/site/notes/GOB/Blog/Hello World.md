@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Hello World.md","permalink":"/blog/hello-world/","title":"Hello World","tags":["post"],"noteIcon":"default"}
+{"dg-publish":true,"dg-path":"Blog/Hello World.md","permalink":"/blog/hello-world/","title":"Hello World","tags":["post"],"noteIcon":"default","created":"2023-08-04","updated":"2023-08-04"}
 ---
 
 
