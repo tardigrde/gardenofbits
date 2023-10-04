@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Blog.md","permalink":"/blog/blog/","pinned":true,"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Blog/Blog.md","permalink":"/blog/blog/","pinned":true,"noteIcon":"default"}
 ---
 
 # Blog posts
@@ -10,6 +10,5 @@
 | [[GOB/Blog/Hello World\|Hello World]]                                                                                                             | August 04, 2023    |
 | [[GOB/Blog/Developers guide to the differences between Ceramic and ComposeDB\|Developers guide to the differences between Ceramic and ComposeDB]] | October 23, 2022   |
 | [[GOB/Blog/Automate testing & deployment of Solidity smart contracts\|Automate testing & deployment of Solidity smart contracts]]                 | October 23, 2021   |
-| [[GOB/Blog/Blog\|Blog]]                                                                                                                           | \-                 |
 
 { .block-language-dataview}
