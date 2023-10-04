@@ -5,7 +5,7 @@
 
 Sources: [Linking Your Thinking](https://www.linkingyourthinking.com/)
 
-**Magic happens when you're fully engaged in flow state, connecting ideas like puzzle pieces, and unveiling your unique brilliance along the way.**
+**Magic happens when you're fully engaged in [[GOB/Meta/Flow state\|Flow state]], connecting ideas like puzzle pieces, and unveiling your unique brilliance along the way.**
 
 ## Prioritizing Connection over Accumulation
 
