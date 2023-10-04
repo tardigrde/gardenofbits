@@ -3,9 +3,6 @@
 ---
 
 
-| Epistemic status |
-| -------- |
-|     🌿     |
 # Stretching
 ## Rules
 -  Don’t engage in static stretching before a run, rather do dynamic stretching
