@@ -3,7 +3,7 @@
 ---
 
 
-
+I love free stuff. I love [[GOB/Digital Technology/Open Source\|Open Source]], and I want to support it by at least using what they build.
 ## Why I hate Windows
 - closed source enterprise software
 - vendor lock-in
