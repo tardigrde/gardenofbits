@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Digital Technology/AI/Generative AI.md","permalink":"/gardens/digital-technology/ai/generative-ai/","tags":["it","ai"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Digital Technology/AI/Generative AI.md","permalink":"/gardens/digital-technology/ai/generative-ai/","tags":["it","ai"],"noteIcon":"1"}
 ---
 
 ## My GPT tools
