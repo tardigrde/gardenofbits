@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Garden of Bits.md","permalink":"/garden-of-bits/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"dg-path":"Garden of Bits.md","permalink":"/garden-of-bits/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1"}
 ---
 
 # Garden of Bits
