@@ -3,8 +3,10 @@
 ---
 
 # AI 
-- [[GOB/Digital Technology/AI/Tools\|Tools]]
-- [[GOB/Digital Technology/AI/AI Agents\| AI Agents]]
 
-Langchain
+[[GOB/Digital Technology/AI/Generative AI\|Generative AI]] is the new hype.
+Here are some tool [[GOB/Digital Technology/AI/Tools\|Tools]] to look at.
+[[GOB/Digital Technology/AI/AI Agents\|AI Agents]] is also a hot topic.
+
+## Langchain
 
