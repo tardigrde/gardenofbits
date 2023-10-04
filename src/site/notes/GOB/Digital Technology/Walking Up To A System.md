@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Walking Up To A System.md","permalink":"/gardens/digital-technology/walking-up-to-a-system/","tags":["IT","howto"],"noteIcon":1,"created":"","updated":""}
+{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Walking Up To A System.md","permalink":"/gardens/digital-technology/walking-up-to-a-system/","tags":["IT","howto"],"noteIcon":1}
 ---
 
 
