@@ -1,10 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Personal/Health/General guidelnies for vegetarian diet.md","permalink":"/gardens/personal/health/general-guidelnies-for-vegetarian-diet/","tags":["health","diet"],"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Gardens/Personal/Health/General guidelnies for vegetarian diet.md","permalink":"/gardens/personal/health/general-guidelnies-for-vegetarian-diet/","tags":["health","diet"],"noteIcon":2}
 ---
 
 
 ## Vitamin supplementation
 ### Proteins 
+
+> [!NOTE] 
+> 1 gram of protein = 4 kilo [[GOB/Personal/Health/Calories\|Calories]].
+
 Proteins are the "building blocks" of our bodies, made up of a combination of 20 amino acids. Some of these can be produced by the body, others not or not in sufficient quantities.
 
 The latter are called essential amino acids and are obtained from an external source through the food we eat. Foods of animal origin (meat, dairy products, eggs) contain all these amino acids at the same time, i.e. they are complete sources of protein.
