@@ -3,9 +3,6 @@
 ---
 
 
-| Epistemic status |
-| -------- |
-|     🌱     |
 # High-intensity interval training
 Some exercises:
 - russian twists
