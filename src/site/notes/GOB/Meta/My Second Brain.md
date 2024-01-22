@@ -72,13 +72,13 @@ Disciplines & PPV
 #### Connect
 Whenever collect, connect right away! 
 
-see: [[GOB/Meta/Linking your thinking\|Linking your thinking]], [[200 Resources/201 Memory Flow Interface/Rambling\|Rambling]]
+see: [[GOB/Meta/Linking your thinking\|Linking your thinking]], [[900 Archive/201 Memory Flow Interface/Rambling\|Rambling]]
 
 #### Refactor
 Has both order and distill in it. And ultimately should minimize this stage.
 
 #### Express 
-[[GOB/Garden of Bits\|Garden of Bits]], [[000 Inbox/Blogging\|Blogging]], [[000 Inbox/Content Creation\|Content Creation]], [[200 Resources/201 Memory Flow Interface/Alignment\|Alignment]]
+[[GOB/Garden of Bits\|Garden of Bits]], [[000 Inbox/backlog/Blogging\|Blogging]], [[000 Inbox/backlog/Content Creation\|Content Creation]], [[900 Archive/201 Memory Flow Interface/Alignment\|Alignment]]
 
 
 
