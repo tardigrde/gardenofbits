@@ -13,7 +13,7 @@ A PKM system is often likened to a second brain, and designing it to mimic the w
 2. The input undergoes processing, revision, reorganization, and similar operations.
 3. Conclusions are drawn, and action is taken, with the input being stored for future reference.
 
-Applying this workflow concept to [[GOB/Digital Technology/Obsidian\|Obsidian]] [[GOB/Meta/My Second Brain\|My Second Brain]], you can refer to the [[200 Resources/201 Memory Flow Interface/Practical Workflow of MFI\|Practical Workflow of MFI]]. 
+Applying this workflow concept to [[GOB/Digital Technology/Obsidian\|Obsidian]] [[GOB/Meta/My Second Brain\|My Second Brain]], you can refer to the [[900 Archive/201 Memory Flow Interface/Practical Workflow of MFI\|Practical Workflow of MFI]]. 
 - [ ] #task describe MFI
 
 PKM typically relies on a [[GOB/Meta/Personal Knowledge Database\|Personal Knowledge Database]] as its foundation.
