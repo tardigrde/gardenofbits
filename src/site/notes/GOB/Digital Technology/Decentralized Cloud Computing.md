@@ -37,4 +37,5 @@ I created [[GOB/Blog/IPFS  Uncovered\|IPFS  Uncovered]] to get myself through th
 
 
 
-
+Good article on DePIN
+[Mapping the Landscape of Decentralized Physical Infrastructure Networks](https://iotex.io/blog/depin-landscape-map/)
