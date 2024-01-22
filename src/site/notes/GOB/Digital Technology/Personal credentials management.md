@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Personal credentials management.md","permalink":"/gardens/digital-technology/personal-credentials-management/","tags":["tech","password"],"noteIcon":1,"created":"2023-10-13","updated":"2023-10-13"}
+{"dg-publish":true,"dg-path":"Gardens/Digital Technology/Personal credentials management.md","permalink":"/gardens/digital-technology/personal-credentials-management/","tags":["tech","password","credentials"],"noteIcon":1,"created":"2023-10-13","updated":"2023-10-13"}
 ---
 
 # Personal credentials management
